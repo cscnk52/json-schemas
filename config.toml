@@ -1,0 +1,4 @@
+#:schema ./content/zola.schema.json
+
+base_url = "https://cscnk52.github.io/json-schemas"
+
